@@ -3,48 +3,49 @@
     "devices": "iPhone 3, iPhone 4 (3.5 Inch)",
     "sizeString": "640 x 960",
     "size": {
-      "width": 640,
-      "height": 960
+      "height": "960"
     }
   },
   {
     "devices": "iPhone 5 (4 Inch)",
     "sizeString": "640 x 1136",
     "size": {
-      "width": 640,
-      "height": 1136
+      "height": "1136"
     }
   },
   {
     "devices": "iPhone 6 (4.7 Inch)",
     "sizeString": "750 x 1334",
     "size": {
-      "width": 750,
-      "height": 1334
+      "height": "1334"
     }
   },
   {
     "devices": "iPhone 6 Plus (5.5 Inch)",
     "sizeString": "1242 x 2208",
     "size": {
-      "width": 1242,
-      "height": 2208
+      "height": "2208"
     }
   },
   {
     "devices": "iPad (Air and Mini Retina)",
     "sizeString": "1536 x 2048",
     "size": {
-      "width": 1536,
-      "height": 2048
+      "height": "2048"
+    }
+  },
+  {
+    "devices": "Apple Watch",
+    "sizeString": "312 x 390 pixels",
+    "size": {
+      "height": "390"
     }
   },
   {
     "devices": "iPad Pro",
     "sizeString": "2048 x 2732",
     "size": {
-      "width": 2048,
-      "height": 2732
+      "height": "2732"
     }
   }
 ]
