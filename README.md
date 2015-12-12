@@ -11,6 +11,7 @@
 
 #### iPhone 6 Plus (5.5 Inch)
 1242 x 2208
+
 You need the screenshot in this resolution, the phone scales them down to 1080 x 1920
 
 #### iPad (Air and Mini Retina)
